@@ -18,6 +18,8 @@ div.click {
   display: flex;
   justify-content: center;
   margin-top: 50px;
+  width: 541;
+  height 461;
 }
 
 #hate {
